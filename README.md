@@ -2,6 +2,7 @@
 # mypkg
 
 <!-- badges: start -->
+[![workflow](https://github.com/GuidoMaggio/mypkg/actions/workflows/workflow.yml/badge.svg)](https://github.com/GuidoMaggio/mypkg/actions/workflows/workflow.yml)
 <!-- badges: end -->
 
 The goal of mypkg is to ...
