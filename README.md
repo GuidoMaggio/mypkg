@@ -5,7 +5,7 @@
 [![workflow](https://github.com/GuidoMaggio/mypkg/actions/workflows/workflow.yml/badge.svg)](https://github.com/GuidoMaggio/mypkg/actions/workflows/workflow.yml)
 <!-- badges: end -->
 
-The goal of mypkg is to ...
+The goal of mypkg is to be used for introR4
 
 ## Installation
 
