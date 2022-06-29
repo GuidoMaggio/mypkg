@@ -200,7 +200,7 @@ line_plot_data <- function(data, value, startdate = data$Date[1], title) {
   #add title if present
   if (!missing(title))
     p <- p + labs(title = title)
-  pp <- p %>%
+  pp <- p %>% # I would suggest to do this
     ggplotly(tooltip = c("x", "y"))
   pp
 }
